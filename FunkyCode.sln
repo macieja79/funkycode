@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSubstituteTests", "Auto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecificationPattern", "SpecificationPattern\SpecificationPattern.csproj", "{7782C590-1E6F-435E-8C7C-669736DD470F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeDom", "CodeDom\CodeDom.csproj", "{FC35BF72-9793-48EE-96CC-B9C71204CB5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{7782C590-1E6F-435E-8C7C-669736DD470F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7782C590-1E6F-435E-8C7C-669736DD470F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7782C590-1E6F-435E-8C7C-669736DD470F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC35BF72-9793-48EE-96CC-B9C71204CB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC35BF72-9793-48EE-96CC-B9C71204CB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC35BF72-9793-48EE-96CC-B9C71204CB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC35BF72-9793-48EE-96CC-B9C71204CB5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
